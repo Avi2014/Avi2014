@@ -1,24 +1,51 @@
-# 👋 Hi, I’m Avinash Ranjan
-   ### Student at NITP, pursuing my degree of Engineering in Computer Science (2023-27).
-   ###				Welcome to my GitHub profile! I'm excited to share my projects and collaborate with others in the community.
+# Hi, I'm Avinash Ranjan 👋
 
-## 👀My interests are							
-   ###				Learning Algorithms, Web Development and Psychology. 	
+### B.Tech CSE @ NIT Patna (2023-27) | Full-Stack Developer (MERN) | Competitive Programmer
 
-## 🌱I’m currently learning
-  ###				Programming languages like: C++. JavaScript, Python and Frameworks like ReactJS, NextJS and NodeJS.
+I am a final-year Computer Science student with a strong foundation in Data Structures & Algorithms. I specialize in building scalable full-stack applications and have hands-on experience with backend development and machine learning. I am actively seeking SDE Internship opportunities for 2026.
 
-## 💞️I’m always looking to collaborate on Open-source Projects.
+---
 
-## 📫To reach me
-  ###				Here's my LinkedIn handle https://www.linkedin.com/in/avinash-ranjan-16185a28a and my gmail avinashranjan2074@gmail.com
+### 🛠️ Tech Stack
 
-## 😄 Pronouns: He/Him
+*   **Languages:** C++, Python, JavaScript, TypeScript, SQL
+*   **Frontend:** React.js, Next.js, HTML, CSS
+*   **Backend:** Node.js, Express.js, Spring Boot, REST APIs
+*   **Databases & Cloud:** MongoDB, PostgreSQL, MySQL, AWS, Docker, Prisma
+*   **Core CS:** Data Structures, Algorithms, OOP, DBMS, Operating Systems
 
-## ⚡ Use to play chess in my free time.
+---
 
-###		Feel free to check out my repositories and don't hesitate to reach out if you want to connect or collaborate!
-<!---
-Avi2014/Avi2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Featured Projects
+
+#### [Multistage IoT Botnet Attack Detection](YOUR_REPO_LINK_HERE)
+*Python, Pandas, Scikit-learn, XGBoost*
+*   Engineered a scalable ML threat-detection framework achieving **99.97% anomaly detection accuracy**.
+*   Architected a 38-dimensional feature pipeline for rapid zero-day vulnerability identification.
+*   Deployed ensemble models achieving **97.98% ROC-AUC** for real-time edge execution.
+
+#### [VitaMap - Pharmacy Management WebApp](YOUR_REPO_LINK_HERE)
+*Next.js, Node.js, PostgreSQL, Prisma, Python*
+*   Built a high-availability Next.js architecture orchestrating real-time geospatial data.
+*   Architected optimized APIs via Node.js and Prisma ORM, enabling operational scaling.
+*   Integrated a Python NLP microservice for automated health-query resolution.
+
+---
+
+### 📊 Competitive Programming & Achievements
+
+*   **CodeChef:** 3⭐ (Peak: 1636)
+*   **LeetCode:** Peak: 1822 | Solved 800+ DSA and SQL problems
+*   **CodeForces:** Pupil (1242) | Global Rank 2848 in Round 1029
+*   **Adobe Hackathon:** Ranked among the Top 200 teams nationally
+*   **Internship:** Software Development Intern at VLED Lab, IIT Ropar
+
+---
+
+### 📫 Connect with Me
+
+*   **LinkedIn:** [avinash-ranjan-16185a28a](https://www.linkedin.com/in/avinash-ranjan-16185a28a)
+*   **Email:** avinashranjan2074@gmail.com
+*   **Resume:** [Link to your PDF or portfolio]
+
+*Feel free to explore my repositories and reach out for collaborations!*
